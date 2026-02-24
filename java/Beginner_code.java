@@ -1,3 +1,4 @@
+package java;
 //1. (Easy)
 /*
 * Problem Statement:  
