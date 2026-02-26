@@ -1,4 +1,3 @@
-package java;
 // //1. Problem Statement: (Easy)
 // //Write a code to get the input in the given format and print the output in the given format
 // // Sample Input:

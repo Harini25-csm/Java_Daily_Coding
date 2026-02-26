@@ -1,4 +1,3 @@
-package java;
 import java.util.Scanner;
 public class Sum{
     public static int sum(int... args) {
