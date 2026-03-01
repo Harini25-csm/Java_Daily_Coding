@@ -1,3 +1,4 @@
+package Foundation;
 public class palindromeNum{
     public boolean palindrome(int x){
         if(x<0){

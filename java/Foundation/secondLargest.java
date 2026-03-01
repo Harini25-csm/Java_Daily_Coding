@@ -1,3 +1,4 @@
+package Foundation;
 class secondLargest {
     public int secondHighest(String s) {
         int first=-1;

@@ -1,3 +1,4 @@
+package Foundation;
 class reverseNum {
     public int reverse(int x) {
         int rev=0;
