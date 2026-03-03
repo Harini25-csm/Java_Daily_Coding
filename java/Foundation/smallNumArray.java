@@ -18,3 +18,9 @@ class Main {
         System.out.println(max+" ");
     }
 }
+/*
+sum(10,20,30,40) => 100
+sum(3,4,2) =>10
+sum(2) =>2
+sum() =>0
+*/
