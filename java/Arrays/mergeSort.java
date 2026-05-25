@@ -25,11 +25,11 @@ public class mergeSort {
 /*
 nums1 = [1,2,3,0,0,0], m = 3, nums2 = [2,5,6], n = 3
 i=3 , j=6 =>3>=0 && 6>=0
-3>6 => nums1[k]=6(nums2[j])
+3>6 => nums1[k]=6    (nums2[j])
 j-- => 5; 3>5 =>5
-3>2 =>nums1[k]=3(nums1[i])
+3>2 =>nums1[k]=3   (nums1[i])
 i-- => 2
-2>2 => 2 => 2(nums2[j])
+2>2 => 2 => 2    (nums2[j])
 [1,2,2,3,5,6]
    ↑
    k=1
