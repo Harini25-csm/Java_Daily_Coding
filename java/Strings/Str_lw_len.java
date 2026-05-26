@@ -16,6 +16,11 @@ class Str_lw_len {
 }
 
 /*
+Input: s = "Hello World"
+Output: 5
+Explanation: The last word is "World" with length 5.
+
+
 String s = " Hello  World ";
 s.length() = 14  => i=14-1=13
 |   | H | e | l | l | o |   |   | W | o | r | l | d  |   |

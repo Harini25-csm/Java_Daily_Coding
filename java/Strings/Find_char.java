@@ -14,6 +14,11 @@ class Find_char{
 }
 
 /*
+Input: words = ["leet","code"], x = "e"
+Output: [0,1]
+Explanation: "e" occurs in both words: "leet", and "code". Hence, we return indices 0 and 1.
+
+
 words = ["abc","bcd","aaaa","cbc"]
 x = 'a'
 List<Integer> result=new ArrayList<>();   => creates empty list result=[]
